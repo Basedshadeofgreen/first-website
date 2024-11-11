@@ -1,0 +1,33 @@
+table, th, td{
+    border: 1px solid rgb(255, 255, 255);
+    }
+    
+    body{
+        background-image: url("https://i.ytimg.com/vi/6YzGOq42zLk/maxresdefault.jpg");
+       
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+      table.center {
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      h1 {text-align: center;}
+      h2 {text-align: center;}
+      p {text-align: center;}
+      .box1 {
+        background-color: #000;
+        color: #fff;
+        opacity: 0.5;
+      }
+      
+      .box2 {
+        background-color: rgb(0 0 0 / 0.5);
+        color: #fff;
+      }
+      td {
+        height: 50px;
+        vertical-align: top;
+      }
